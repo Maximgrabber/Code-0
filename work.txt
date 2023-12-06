@@ -1,0 +1,15 @@
+threads=4
+
+#BFT, FAAC  
+mode=BFT
+
+#BFT test
+s0=44
+s1=49b50800
+s2=71b165eb
+s3=aeb7b960
+
+#FAAC test
+#s0=5426cc
+#s1=b579414b
+#s2=44a32b05
